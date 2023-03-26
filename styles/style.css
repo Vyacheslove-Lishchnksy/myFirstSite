@@ -118,7 +118,7 @@ body {
     color: #fff;
 }
 
-.Body-site {
+.Backgroung {
     z-index: 1;
     color: #fff;
     background-color: #fff;
@@ -147,5 +147,13 @@ body {
     
     .div-right {
         width: 5%;
+    }
+
+    .arrowsleft {
+        display: none;
+    }
+    
+    .arrowsright {
+       display: none;
     }
 }
