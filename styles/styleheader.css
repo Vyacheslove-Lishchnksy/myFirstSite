@@ -135,7 +135,7 @@ body {
 }
 
 
-@media(max-width: 600px) {
+@media(max-width: 700px) {
     .div-center{
         width: 90%;
     }
@@ -157,7 +157,7 @@ body {
     }
 }
 
-@media(max-width: 450px) {
+@media(max-width: 600px) {
     .div-center{
         width: 100%;
     }
@@ -185,7 +185,6 @@ body {
         padding-left: calc(var(--index)*5);
         
     }
-    
     
     .Header__naw-bar {
         padding: 1em;

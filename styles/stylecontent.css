@@ -98,7 +98,7 @@
     color: white;
     background-color: #ffffff00;
     padding-left: 1em;
-    font-size: calc(var(--index)*0.8);
+    font-size: 0.8em;
 }
 
 .Forms__Subscribe {
@@ -126,11 +126,10 @@
     color: white;
     background-color: #029bb1;
     margin-left: 1em;
-    font-size: calc(var(--index)*0.8);
     padding: 0.2em 1em;
 }
 
-@media(max-width: 800px) {
+@media(max-width: 900px) {
     .Info-box {
         display: block;
     }
